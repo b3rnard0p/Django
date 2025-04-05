@@ -1,0 +1,11 @@
+1- Criar um Ambiente Virtual: 
+1.1- Comando: python -m venv minha_venv
+1.2- Comando: minha_venv\Scripts\activate
+
+2- Instalar o Django:
+2.1- Comando: pip install django
+
+3-Iniciar o servidor:
+2.1- Comando: python manage.py runserver
+
+OBS --> iniciar o servidor na pasta onde esta localizado o manage.py
